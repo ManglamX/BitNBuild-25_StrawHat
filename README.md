@@ -31,7 +31,7 @@ The solution aims to streamline vendor management, optimize delivery routes usin
 
 | Component              | Tools & Technologies                            | Purpose                                                                 |
 |------------------------|-------------------------------------------------|-------------------------------------------------------------------------|
-| **Backend Microservice** | Python 3.x, Flask or FastAPI                     | Building the route optimization REST API                                |
+| **Backend Microservice** | Python 3.x, Flask                     | Building the route optimization REST API                                |
 | **Route Optimization**  | Google OR-Tools, NetworkX                        | Solving Traveling Salesman Problem (TSP) / Vehicle Routing Problem (VRP)|
 | **Database**            | MongoDB, pymongo                                 | Persistent storage of users, routes, tracking data                      |
 | **Real-Time Tracking**  | Socket.IO (Node.js or python-socketio)           | Live delivery location updates via WebSockets                           |
