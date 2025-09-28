@@ -1,0 +1,13 @@
+VendorDashboard/frontend/.env
+VendorDashboard/backend/.env
+VendorDashboard/frontend/node_modules
+VendorDashboard/venv
+VendorDashboard/backend/venv
+VendorDashboard/backend/__pycache__
+CLEANUP_SUMMARY.md
+ROUTE_OPTIMIZATION_INTEGRATION.md
+SETUP_GUIDE.md
+route-optimization-ms/.venv
+route-optimization-ms/.env
+NourishNet-Backend/venv
+NourishNet/node_modules
